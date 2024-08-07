@@ -12,9 +12,9 @@ setup(
     version=version,
     description='Web based ssh client',
     long_description=long_description,
-    author='Shengdun Hua',
-    author_email='webmaster0115@gmail.com',
-    url='https://github.com/huashengdun/webssh',
+    author='Sumon Paul',
+    author_email='sumonpaul461@gmail.com',
+    url='https://github.com/SumonPaul18/webssh-terminal.git',
     packages=['webssh'],
     entry_points='''
     [console_scripts]
