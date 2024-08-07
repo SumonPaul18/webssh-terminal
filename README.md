@@ -151,9 +151,12 @@ http://localhost:8888/?term=xterm-256color
 
 ### Use Docker
 
+
 Start up the app
 ```
-docker-compose up
+git clone https://github.com/SumonPaul18/webssh-terminal.git
+cd webssh-terminal
+docker-compose up -d
 ```
 
 Tear down the app
